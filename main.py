@@ -16,7 +16,7 @@ def escritura_resultado(resul,oper,time):
 
 #################################################################
 #Menu de operaciones presentadas al Usuario
-operacion = ' casa'
+operacion = ' '
 
 print('Este programa calcula las operaciones trigonometicas Seno, Coseno y Tangente del numero Pi')
 operacion=str(input('\n\nPor favor escoja la operacion a realizar\n Seno de Pi => sen\n Coseno Pi => cos\n Tangente Pi => tan \n\n ====> '))
